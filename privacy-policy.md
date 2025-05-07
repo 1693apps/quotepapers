@@ -10,6 +10,6 @@
 
 <p>No, we do not sell your data, nor do we spy on you.</p>
 
-<h2>Are There Any Privacy Issues With The Game</h2>
+<h2>Are There Any Privacy Issues With The Application</h2>
 
 <p>We only do our best from our side, and we ask you the same. Please ensure that you install this application only from your official mobile OS stores.</p>
